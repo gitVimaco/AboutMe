@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Víctor Márquez</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">– Estudié en el Liceo Francés de Madrid.\n\n
+– Soy Ingeniero Superior en Informática y he finalizado cursos de Máster en Tecnologías de la Información Avanzadas por la Universidad Autónoma de Madrid.\n\n
+– He trabajado como becario en la Escuela Politécnica Superior de la Universidad Autónoma de Madrid en la Unidad Técnica de Informática para la Docencia y en el grupo de Ingeniería del Software, así como en IBM dando soporte al grupo de Tecnologías de la Información y Transformación de Negocio y al CIO desarrollando herramientas internas de movilidad y facturación.\n\n
+– Actualmente trabajo como consultor en Consultia IT desarrollando aplicaciones móviles para Android y Windows Mobile con sincronización contra sistemas SAP R/3 y aplicaciones web Java EE con Spring, Struts e Hibernate.\n\n
+– En mis ratos libres llevo más de 10 años dedicándome al desarrollo web y desde hace 4 años desarrollo aplicaciones para Android.\n\n
+– Soy dinámico y proactivo.\n\n
+– Hablo Español, Francés e Inglés.\n\n
+– Tengo carnet de conducir y vehículo propio.\n\n
+– Defiendo férreamente el desarrollo sostenible como solución al calentamiento global.</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+</resources>
